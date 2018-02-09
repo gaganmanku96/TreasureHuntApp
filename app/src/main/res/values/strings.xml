@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Treasure Hunt</string>
+    <string-array name="tasks">
+        <item>Task1</item>
+        <item>Task2</item>
+        <item>Task3</item>
+        <item>Task4</item>
+        <item>Task5</item>
+    </string-array>
+    <string name="level">1</string>
+    <string name="image">image</string>
+    <string name="imageName">name</string>
+    <string name="capture">Capture</string>
+    <string name="todo">TODO</string>
+    <string name="clear">Clear</string>
+    <string name="passcode">PassCode</string>
+    <string name="verify">Verify</string>
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="complete_the_tasks">Complete the Tasks</string>
+</resources>
